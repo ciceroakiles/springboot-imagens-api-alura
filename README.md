@@ -52,3 +52,8 @@ Resultados após testar localmente:
 
 * DELETE
 ![Imgur](https://i.imgur.com/4CtmqKQ.png)
+
+<br>
+Projeto anterior que pode consumir essa API:
+
+https://github.com/ciceroakiles/alura-imersao
