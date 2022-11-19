@@ -5,8 +5,7 @@ Deploy no Heroku: https://springboot-imagens-api-alura.herokuapp.com/imagens/
 <details>
 <summary>Parte 4</summary>
 
-# Desafios da parte 4
-https://www.alura.com.br/imersao-java/aulas/aula04-apis-com-spring
+## Desafios da parte 4
 
 * Utilizar um DTO para traduzir um objeto (FEITO)
 
@@ -24,8 +23,7 @@ https://www.alura.com.br/imersao-java/aulas/aula04-apis-com-spring
 <details>
 <summary>Parte 5</summary>
 
-# Desafios da parte 5
-https://www.alura.com.br/imersao-java/aulas/aula05-deploy-no-cloud
+## Desafios da parte 5
 
 * Deploy na cloud da Oracle
 
