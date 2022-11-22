@@ -1,7 +1,5 @@
 # springboot-imagens-api-alura
 
-Deploy no Heroku: https://springboot-imagens-api-alura.herokuapp.com/imagens/
-
 <details>
 <summary>Parte 4</summary>
 
